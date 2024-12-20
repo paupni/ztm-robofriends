@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ztm-robofriends/static/css/main.ae30e924.css",
+    "main.js": "/ztm-robofriends/static/js/main.4776aa66.js",
+    "index.html": "/ztm-robofriends/index.html",
+    "main.ae30e924.css.map": "/ztm-robofriends/static/css/main.ae30e924.css.map",
+    "main.4776aa66.js.map": "/ztm-robofriends/static/js/main.4776aa66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae30e924.css",
+    "static/js/main.4776aa66.js"
+  ]
+}
